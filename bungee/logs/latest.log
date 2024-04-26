@@ -3,3 +3,26 @@
 [00:00:33] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33804]: Logged in as 'YeeishDarvler573'
 [00:00:33] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33804|YeeishDarvler573] -> UpstreamBridge has connected
 [00:00:33] [Netty Worker IO Thread #1/INFO]: [YeeishDarvler573|/[0:0:0:0:0:0:0:1%0]:33804] <-> ServerConnector [lobby] has connected
+[00:03:21] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:32808|YeeishVool930] -> UpstreamBridge has disconnected
+[00:03:21] [Netty Worker IO Thread #2/INFO]: [YeeishVool930] disconnected with: Proxy lost connection to server.
+[00:03:21] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:32808|YeeishVool930] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:04:27] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58580]: Connected via websocket
+[00:04:27] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58580]: Origin header is https://eaglercraft.com
+[00:04:27] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58580]: Logged in as 'YeeishVool930'
+[00:04:27] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58580|YeeishVool930] -> UpstreamBridge has connected
+[00:04:27] [Netty Worker IO Thread #1/INFO]: [YeeishVool930|/[0:0:0:0:0:0:0:1%0]:58580] <-> ServerConnector [lobby] has connected
+[00:11:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33804|YeeishDarvler573] -> UpstreamBridge has disconnected
+[00:11:55] [Netty Worker IO Thread #1/INFO]: [YeeishDarvler573] disconnected with: Proxy lost connection to server.
+[00:11:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33804|YeeishDarvler573] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:11:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58580|YeeishVool930] -> UpstreamBridge has disconnected
+[00:11:57] [Netty Worker IO Thread #1/INFO]: [YeeishVool930] disconnected with: Proxy lost connection to server.
+[00:11:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58580|YeeishVool930] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:12:12] [Shutdown Thread/INFO]: Closing listener [id: 0xd410a9b6, L:/127.0.0.1:25577]
+[00:12:12] [Shutdown Thread/INFO]: Closing pending connections
+[00:12:12] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[00:12:12] [Shutdown Thread/INFO]: Disabling plugins
+[00:12:12] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[00:12:12] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[00:12:12] [Shutdown Thread/INFO] [EaglercraftXBungee]: Stopping skin cache HTTP client...
+[00:12:14] [Shutdown Thread/INFO]: Closing IO threads
+[00:12:16] [Shutdown Thread/INFO]: Thank you and goodbye

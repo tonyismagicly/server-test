@@ -8,3 +8,67 @@
 [00:01:15] [Server thread/INFO]: YeeishVool930 issued server command: /gamemode 1
 [00:01:15] [Server thread/INFO]: [YeeishVool930: Set own game mode to Creative Mode]
 [00:01:19] [Server thread/INFO]: YeeishVool930 issued server command: /plugins
+[00:03:22] [Server thread/INFO]: YeeishVool930 lost connection: Disconnected
+[00:03:22] [Server thread/INFO]: YeeishVool930 left the game.
+[00:04:27] [Thread-12/INFO]: UUID of player YeeishVool930 is 455e5ca5-a6fe-3cda-a1aa-22509e293cc5
+[00:04:27] [Server thread/INFO]: YeeishVool930[/[0:0:0:0:0:0:0:1]:45790] logged in with entity id 473 at ([world]205.30343512071562, 69.86436900461877, -160.5296752499161)
+[00:04:40] [Server thread/INFO]: YeeishVool930 issued server command: /lac update
+[00:04:40] [Craft Scheduler Thread - 2/INFO]: [LoginSecurity] Downloading file LoginSecurity-3.2.0-Bukkit (1).jar...
+[00:04:41] [Craft Scheduler Thread - 2/INFO]: [LoginSecurity] Download complete!
+[00:05:51] [Server thread/INFO]: YeeishVool930 issued server command: /tp @a @s
+[00:05:51] [Server thread/INFO]: [YeeishVool930: The entity UUID provided is in an invalid format]
+[00:05:51] [Server thread/INFO]: [YeeishVool930: The entity UUID provided is in an invalid format]
+[00:05:57] [Server thread/INFO]: YeeishVool930 issued server command: /tp * me
+[00:05:57] [Server thread/INFO]: [YeeishVool930: The entity UUID provided is in an invalid format]
+[00:05:59] [Server thread/INFO]: YeeishVool930 issued server command: /help
+[00:06:04] [Server thread/INFO]: YeeishVool930 issued server command: /help 2
+[00:06:08] [Server thread/INFO]: YeeishVool930 issued server command: /help 20
+[00:06:11] [Server thread/INFO]: YeeishVool930 issued server command: /help 18
+[00:06:13] [Server thread/INFO]: YeeishVool930 issued server command: /help 16
+[00:06:15] [Server thread/INFO]: YeeishVool930 issued server command: /help 14
+[00:06:18] [Server thread/INFO]: YeeishVool930 issued server command: /help 14
+[00:06:19] [Server thread/INFO]: YeeishVool930 issued server command: /help 13
+[00:06:20] [Server thread/INFO]: YeeishVool930 issued server command: /help 12
+[00:06:21] [Server thread/INFO]: YeeishVool930 issued server command: /help 11
+[00:06:24] [Server thread/INFO]: YeeishVool930 issued server command: /help 15
+[00:06:26] [Server thread/INFO]: YeeishVool930 issued server command: /help 16
+[00:06:29] [Server thread/INFO]: YeeishVool930 issued server command: /help 17
+[00:07:07] [Async Chat Thread - #1/INFO]: <YeeishDarvler573> hi[m
+
+[00:07:50] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration
+[00:07:50] [Server thread/INFO]: [YeeishVool930: Given Regeneration (ID 10) * 0 to YeeishDarvler573 for 30 seconds]
+[00:07:53] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration
+[00:07:53] [Server thread/INFO]: [YeeishVool930: Given Regeneration (ID 10) * 0 to YeeishDarvler573 for 30 seconds]
+[00:07:55] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration 2
+[00:07:55] [Server thread/INFO]: [YeeishVool930: Given Regeneration (ID 10) * 0 to YeeishDarvler573 for 2 seconds]
+[00:07:58] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration 2 5
+[00:07:58] [Server thread/INFO]: [YeeishVool930: Given Regeneration (ID 10) * 5 to YeeishDarvler573 for 2 seconds]
+[00:08:05] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration true 5
+[00:08:05] [Server thread/INFO]: [YeeishVool930: 'true' is not a valid number]
+[00:08:09] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration false 5
+[00:08:09] [Server thread/INFO]: [YeeishVool930: 'false' is not a valid number]
+[00:08:11] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration false 50
+[00:08:11] [Server thread/INFO]: [YeeishVool930: 'false' is not a valid number]
+[00:08:18] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration false 50
+[00:08:18] [Server thread/INFO]: [YeeishVool930: 'false' is not a valid number]
+[00:08:21] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration 0 50
+[00:08:21] [Server thread/INFO]: [YeeishVool930: Couldn't take Regeneration from YeeishDarvler573 as they do not have the effect]
+[00:08:24] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration 4 50
+[00:08:24] [Server thread/INFO]: [YeeishVool930: Given Regeneration (ID 10) * 50 to YeeishDarvler573 for 4 seconds]
+[00:08:40] [Server thread/INFO]: YeeishVool930 issued server command: /effect YeeishDarvler573 minecraft:regeneration 4 50
+[00:08:40] [Server thread/INFO]: [YeeishVool930: Given Regeneration (ID 10) * 50 to YeeishDarvler573 for 4 seconds]
+[00:08:52] [Server thread/INFO]: YeeishDarvler573 was slain by YeeishVool930
+[00:10:33] [Server thread/INFO]: YeeishVool930 issued server command: //wand
+[00:10:40] [Server thread/INFO]: YeeishVool930 issued server command: //set dirt
+[00:11:43] [Server thread/INFO]: YeeishDarvler573 has just earned the achievement [Taking Inventory]
+[00:11:49] [Async Chat Thread - #2/INFO]: <YeeishDarvler573> uwu[m
+
+[00:11:55] [Server thread/INFO]: YeeishDarvler573 lost connection: Disconnected
+[00:11:55] [Server thread/INFO]: YeeishDarvler573 left the game.
+[00:11:57] [Server thread/INFO]: YeeishVool930 lost connection: Disconnected
+[00:11:57] [Server thread/INFO]: YeeishVool930 left the game.
+[00:12:10] [Thread-2/INFO]: Stopping server
+[00:12:10] [Thread-2/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[00:12:10] [Thread-2/INFO]: [LoginSecurity] Waiting for queued tasks...
+[00:12:10] [Thread-2/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[00:12:10] [Thread-2/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
