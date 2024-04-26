@@ -1,0 +1,5 @@
+[00:00:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33804]: Connected via websocket
+[00:00:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33804]: Origin header is https://eaglercraft.com
+[00:00:33] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33804]: Logged in as 'YeeishDarvler573'
+[00:00:33] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33804|YeeishDarvler573] -> UpstreamBridge has connected
+[00:00:33] [Netty Worker IO Thread #1/INFO]: [YeeishDarvler573|/[0:0:0:0:0:0:0:1%0]:33804] <-> ServerConnector [lobby] has connected
